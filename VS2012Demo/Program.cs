@@ -19,6 +19,8 @@ namespace VS2012Demo
             //last change before push
 
             //feature 1.1 change
+
+            //additional 1.1 change
         }
     }
 }
