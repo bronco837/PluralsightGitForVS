@@ -15,6 +15,8 @@ namespace VS2012Demo
             //Local changes
 
             //some more changes
+
+            //last change before push
         }
     }
 }
