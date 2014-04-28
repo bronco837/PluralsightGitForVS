@@ -13,6 +13,8 @@ namespace VS2012Demo
             //initial check in
 
             //Local changes
+
+            //some more changes
         }
     }
 }
